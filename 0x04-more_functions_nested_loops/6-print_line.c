@@ -1,4 +1,4 @@
-include "main.h"
+#include "main.h"
 
 /**
 * print_line - draws a straight line in the terminal
@@ -22,3 +22,4 @@ _putchar('\n');
 }
 
 }
+
